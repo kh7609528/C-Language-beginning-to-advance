@@ -19,4 +19,3 @@ $ C-Language-beginning-to-advance update
 You can find detailed information about using environment variables in the platform-specific documentation..
 How to offer feedback or make a feature request
 If you would like to offer feedback or make a feature request, please create a new discussion Here.
-
